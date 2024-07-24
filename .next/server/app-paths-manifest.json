@@ -1,0 +1,9 @@
+{
+  "/text-generator/page": "app/text-generator/page.js",
+  "/image-generator/page": "app/image-generator/page.js",
+  "/image-editor/page": "app/image-editor/page.js",
+  "/code-generator/page": "app/code-generator/page.js",
+  "/vedio-generator/page": "app/vedio-generator/page.js",
+  "/email-generator/page": "app/email-generator/page.js",
+  "/dashboard/page": "app/dashboard/page.js"
+}
